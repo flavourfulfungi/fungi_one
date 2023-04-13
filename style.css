@@ -16,7 +16,7 @@
 
 .toggle{
         width: 68%;
-	background: #4b0909;
+	background: #800000;
 	left: 200px;
 	top: 75px;
 	right: 200px;
@@ -25,7 +25,7 @@
 
 .logo{
 	position: sticky;
-	top: 30%;
+	top: 40%;
 	width: 50%;
 	left: 10%;
 
