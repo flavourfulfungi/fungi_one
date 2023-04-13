@@ -15,10 +15,10 @@
 }
 
 .toggle{
-        width: 68%
+        width: 68%;
 	background: maroon;
 	left: 300px;
-	top: 100px;
+	top: 75px;
 	box-shadow: 0px 5px 6px 5px;
 }
 
