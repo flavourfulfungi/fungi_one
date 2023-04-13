@@ -17,7 +17,7 @@
 .toggle{
 	width: 65%;
 	background: maroon;
-	position:fixed;
+	position:absolute;
 	left: 300px;
 	top: 100px;
 	list-style-type: none;
