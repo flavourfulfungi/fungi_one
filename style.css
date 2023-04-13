@@ -15,12 +15,10 @@
 }
 
 .toggle{
-	width: 65%;
+
 	background: maroon;
-	position:absolute;
 	left: 300px;
 	top: 100px;
-	list-style-type: none;
 	box-shadow: 0px 5px 6px 5px;
 }
 
