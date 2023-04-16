@@ -3,6 +3,11 @@
 	padding: 0px;
 	font-family: 'Poppins'. sans-serif;
 }
+body{
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
 
 .container{
 	background-image: url(backgroung_ffllc.png);
@@ -176,6 +181,10 @@ form{
 .fa-instagram {
   background: #125688;
   color: white;
+}
+
+footer{
+	margin-top:auto;
 }
 
 @media screen and (max-width:1200px) {
