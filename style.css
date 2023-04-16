@@ -32,11 +32,12 @@
 }
 
 .mission{
-	display: block;
-	color: beige;
-	display: block;
-	width: fit-content;
-	margin: 10px 0;
+
+	width: 500px;
+	background-color: beige;
+	box-shadow: 0 0 20px 0;
+	top: 55%;
+	position: absolute;
  	font-size: 36px;
 }
 .menu-links a{
