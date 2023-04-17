@@ -40,7 +40,7 @@ body{
 	position: absolute;
 	top: 40%;
 	width: 50%;
-	left: 120px;
+	left: 160px;
 
 }
 
@@ -128,8 +128,9 @@ form{
 	width: 500px;
 	background-color: #f5f5f5;
 	box-shadow: 0 0 20px 0;
-	top: 45%;
 	position: absolute;
+	top: 20%;
+	left: 120px;
  	font-size: 24px;
 
 }
