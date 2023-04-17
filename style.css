@@ -115,10 +115,15 @@ form{
 }
 
 .health{
-	left: 10%;
-	font-size: 25px;
-	padding-top: 100px;
-	padding-left: 540px;
+	{
+
+	width: 500px;
+	background-color: #f5f5f5;
+	box-shadow: 0 0 20px 0;
+	top: 55%;
+	position: absolute;
+ 	font-size: 24px;
+
 }
 
 .farmers{
@@ -132,6 +137,16 @@ form{
 	left: 10%;
 	font-size: 15px;
 	padding-left: 560px
+}
+
+.aboutFF{
+
+	width: 500px;
+	background-color: #f5f5f5;
+	box-shadow: 0 0 20px 0;
+	top: 55%;
+	position: absolute;
+ 	font-size: 24px;
 }
 
 
