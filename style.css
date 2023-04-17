@@ -36,6 +36,15 @@ body{
 
 }
 
+.logoA{
+	position: absolute;
+	top: 40%;
+	width: 50%;
+	left: 68%;
+
+}
+
+
 .mission{
 
 	width: 500px;
